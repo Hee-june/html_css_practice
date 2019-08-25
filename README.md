@@ -1,5 +1,1 @@
-# kakao-clone
- 
-
-Kakao Destop App Clone
-Kakao Destop Application Clone
+# html5 and css3 practice
